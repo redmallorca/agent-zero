@@ -1,0 +1,8 @@
+def ultimos_cambios():
+    return "Últimos cambios en el repositorio:\n" \
+           "- Se agregó la función 'ultimos_cambios' para informar sobre las actualizaciones\n" \
+           "- Se creó el archivo 'repositorio' para manejar la información del repositorio\n" \
+           "- Pendiente: Implementar más funcionalidades relacionadas con el repositorio"
+
+if __name__ == "__main__":
+    print(ultimos_cambios())
